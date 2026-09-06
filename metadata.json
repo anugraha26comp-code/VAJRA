@@ -1,0 +1,8 @@
+{
+  "name": "VAJRA",
+  "description": "Interactive Electronic Warfare (EW) RF environment simulation and Machine Learning receiver scheduler comparing open-loop vs bandit and Q-learning scan strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
